@@ -3,6 +3,7 @@ Dist Plot
 =========
 _gallery_category: Distributions
 """
+#testing this file right here
 
 import matplotlib.pyplot as plt
 import numpy as np
